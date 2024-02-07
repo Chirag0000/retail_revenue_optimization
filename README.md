@@ -3,9 +3,10 @@
 Goal:- To provide insights about the products to the store, so that they can increase the sales by taking informed and data-driven decision.
 
 # SQL Functions used
-Aggregate functions
-CTE(Common Table Expression)
-Date Functions Etc.
+1) Aggregate functions
+2) CTE(Common Table Expression)
+3) Date Functions
+4) Window Functions
 
 # Insights based on data
 1) The highest revenue generated products are from footwear categories and it is mostly dominated by Addidas.
